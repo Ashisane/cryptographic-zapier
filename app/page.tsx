@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "Automate your crypto payment workflows with AI. Monitor Solana wallets, process transactions with AI, and trigger actions automatically.",
   icons: {
-    icon: "/icon.ico",
+    icon: "/icons/favicon.ico",
   },
 };
 
