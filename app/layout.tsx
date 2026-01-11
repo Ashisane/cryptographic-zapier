@@ -15,9 +15,6 @@ type RootLayoutProps = {
 
 const RootLayout = ({ children }: RootLayoutProps) => (
   <html lang="en" suppressHydrationWarning>
-    <head>
-      <link rel="icon" href="/icons/favicon.ico" sizes="any" />
-    </head>
     <body
       className={cn(
         sans.variable,
